@@ -1,6 +1,6 @@
 <!-- Stats -->
 <div align="center">
-  I am Fahad, a passionate content creator and web developer. I have honed my skills in video editing, graphic design, web development, and digital marketing through various projects.<br>I have had the opportunity to explore different aspects of technology. As a certified digital marketer, I am also proficient in Google Ads and SEO. I am excited to continue learning and growing in this field, and continue to experience new things.
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdi+Fahadi!;" />
 </div>
 
 
